@@ -1,0 +1,5 @@
+path: D:/Python codes/YOLO Cat/cat
+train: images
+val: images
+names:
+    0: cat
